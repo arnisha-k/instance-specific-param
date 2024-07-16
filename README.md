@@ -9,7 +9,7 @@ Create a python virtual environment and install the required packages using
 pip install -r requirements.txt
 ```
 
-We have used Anaconda package manager in the Linux environment (Ubuntu 18.04.5 LTS). Following command can be used to create a conda environment named `instance-specific-param` with all the dependencies.
+We have used Anaconda package manager in the Linux environment (Ubuntu 22.04.3 LTS). Following command can be used to create a conda environment named `instance-specific-param` with all the dependencies.
 ```bash
 conda env create -f environment.yml
 ```
